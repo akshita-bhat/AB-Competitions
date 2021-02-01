@@ -9,7 +9,7 @@ Suddenly, the screen opened up like:
 
 Curious as I was, I hit I want to play which took me to a different screen 
 
-![Screen](https://github.com/akshita-bhat/AB-Competitions/blob/main/Google%20Foobar%20Challenge/Screen.png)
+![Screen](https://github.com/akshita-bhat/AB-Competitions/blob/main/Google%20Foobar%20Challenge/Screen1.png)
 
 One thing led to another and I completed the first 3 challenges! On to the 4th challenge super soon.
 
