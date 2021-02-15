@@ -7,8 +7,13 @@ for i in range(T):
     P = int(P)
     for i in range(N):
         temp = input()  #10 10 100 30
-        beauty = temp.split(' ')
-        print(beauty)
+        temp = temp.split(' ')
+        beauty=[]
+        for i in range(K):
+            beauty.append(int(temp[i]))
+        #print(beauty)
+        ind_max_beaut = beauty.index(max(beauty))
+        print(ind_max_beaut)
     #find index of max number 
     
     count = 0
